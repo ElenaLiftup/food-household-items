@@ -8,7 +8,7 @@ It means you should use them as soon as possible.
 Google Apps Script checks sheet 'Next 7 days' and sends notification to your e-mail.
 
 See working example here
-https://docs.google.com/spreadsheets/d/1dqk44ylbEK_6aqaY2WC4aTgGlBftV0WGp7-e9bBEfvI/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/100sbz8COoyfbui8E89AlWs84Qm7SlxPbPX-xlSAEcxk/edit?usp=sharing
 
 1. Save on your Google Drive (File -> Make a copy...)
 2. Set up day timer (Tools -> Script editor;
